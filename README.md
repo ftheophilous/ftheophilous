@@ -33,7 +33,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: I am technologically driven and strive to create applications that provide wholesome experiences to users.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 
 - :mailbox: You can reach me on <img height="20px" src="https://img.shields.io/badge/Theophilous-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
